@@ -2,7 +2,7 @@
 
 A portfolio analytics project: a repeatable Python pipeline and a four-view Tableau dashboard that look at how streaming has reshaped US TV viewing and what moves Prime Video's share of it.
 
-**Dashboard:** [Tableau Public link — add after publishing]
+**Dashboard:** (https://public.tableau.com/app/profile/vimlesh.vilas.sonawane/viz/PrimeVideoshare-of-TVanalysis/Dashboard1?publish=yes)
 
 ## The business question
 
