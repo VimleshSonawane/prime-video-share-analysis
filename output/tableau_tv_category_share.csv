@@ -1,0 +1,56 @@
+date,metric,share_pct,source_tier,exclude_from_trend,notes,source
+2021-05-01,Broadcast,25.4,Nielsen release,False,Launch month baseline,https://www.prnewswire.com/news-releases/nielsens-march-2024-report-of-the-gauge-reveals-seasonality-in-monthly-tv-usage-and-greater-shifts-in-viewing-behavior-over-time-302117761.html
+2022-07-01,Broadcast,21.6,Secondary,False,,https://www.cablecompare.com/blog/cable-vs-streaming-market-share
+2023-01-01,Broadcast,24.9,Secondary,True,PRE-RECLASSIFICATION,https://www.advanced-television.com/2023/02/17/nielsen-prime-video-viewing-up-disney-down-in-jan/
+2023-05-01,Broadcast,22.8,Secondary,False,,https://documentarytelevision.com/?p=18123
+2023-06-01,Broadcast,20.8,Secondary,False,,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/
+2023-08-01,Broadcast,20.4,Secondary,False,,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/
+2023-09-01,Broadcast,23.0,Secondary,False,,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/
+2024-09-01,Broadcast,22.6,Secondary,False,,https://tvtechnology.com/news/nfl-boosts-broadcast-tv-prime-video-viewing-in-september
+2025-05-01,Broadcast,20.1,Secondary,False,,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone
+2025-08-01,Broadcast,19.1,Nielsen release,False,,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/
+2025-09-01,Broadcast,22.3,Secondary,False,,https://thedesk.net/2025/10/nielsen-the-gauge-september-2025-report/
+2025-10-01,Broadcast,22.9,Nielsen release,False,,https://www.nielsen.com/news-center/2025/nielsens-the-gauge-nfl-viewership-underscores-how-sports-are-redefining-audience-behavior/
+2025-12-01,Broadcast,21.4,Secondary,False,,https://adwave.com/resources/cable-vs-streaming-viewing-share-q4-2025
+2026-02-01,Broadcast,21.7,Secondary,True,METHODOLOGY DISPUTE - exclude from trend,https://adwave.com/resources/cable-vs-streaming-viewing-share-q1-2026
+2026-05-01,Broadcast,19.2,Secondary,False,,https://www.cablecompare.com/blog/cable-vs-streaming-market-share
+2026-06-01,Broadcast,19.8,Secondary,False,,https://www.mediapost.com/publications/article/417308/
+2026-07-01,Broadcast,19.5,Secondary,False,,https://adwave.com/resources/cable-vs-streaming-viewing-share-q3-2026
+2021-05-01,Cable,39.5,Nielsen release,False,Launch month baseline,https://www.prnewswire.com/news-releases/nielsens-march-2024-report-of-the-gauge-reveals-seasonality-in-monthly-tv-usage-and-greater-shifts-in-viewing-behavior-over-time-302117761.html
+2021-06-01,Cable,40.1,Secondary,False,Cable's all-time Gauge high,https://ppc.land/nielsen-gauge/
+2022-07-01,Cable,34.4,Secondary,False,,https://www.cablecompare.com/blog/cable-vs-streaming-market-share
+2023-01-01,Cable,30.4,Secondary,True,PRE-RECLASSIFICATION,https://www.advanced-television.com/2023/02/17/nielsen-prime-video-viewing-up-disney-down-in-jan/
+2023-05-01,Cable,31.1,Secondary,False,,https://documentarytelevision.com/?p=18123
+2023-08-01,Cable,30.2,Secondary,False,,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/
+2023-09-01,Cable,29.8,Secondary,False,,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/
+2024-09-01,Cable,26.1,Secondary,False,,https://tvtechnology.com/news/nfl-boosts-broadcast-tv-prime-video-viewing-in-september
+2025-05-01,Cable,24.1,Secondary,False,,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone
+2025-08-01,Cable,22.5,Nielsen release,False,,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/
+2025-10-01,Cable,22.2,Nielsen release,False,,https://www.nielsen.com/news-center/2025/nielsens-the-gauge-nfl-viewership-underscores-how-sports-are-redefining-audience-behavior/
+2025-11-01,Cable,20.5,Secondary,False,Cable low at the time,https://www.mediajobsreport.com/articles/broadcast-and-streaming-deliver-historic-tv-viewing-month-in-nielsen%E2%80%99s-the-gauge%E2%84%A2
+2025-12-01,Cable,20.2,Secondary,False,,https://adwave.com/resources/cable-vs-streaming-viewing-share-q4-2025
+2026-02-01,Cable,20.0,Secondary,True,METHODOLOGY DISPUTE - exclude from trend,https://adwave.com/resources/cable-vs-streaming-viewing-share-q1-2026
+2026-05-01,Cable,20.4,Secondary,False,,https://www.cablecompare.com/blog/cable-vs-streaming-market-share
+2026-07-01,Cable,18.7,Secondary,False,,https://adwave.com/resources/cable-vs-streaming-viewing-share-q3-2026
+2021-05-01,Streaming,26.2,Nielsen release,False,Launch month baseline,https://www.prnewswire.com/news-releases/nielsens-march-2024-report-of-the-gauge-reveals-seasonality-in-monthly-tv-usage-and-greater-shifts-in-viewing-behavior-over-time-302117761.html
+2022-07-01,Streaming,34.8,Secondary,False,Streaming passes cable for first time,https://www.cablecompare.com/blog/cable-vs-streaming-market-share
+2023-01-01,Streaming,38.1,Secondary,True,PRE-RECLASSIFICATION: includes vMVPD linear viewing - not comparable,https://www.advanced-television.com/2023/02/17/nielsen-prime-video-viewing-up-disney-down-in-jan/
+2023-05-01,Streaming,36.4,Secondary,False,,https://documentarytelevision.com/?p=18123
+2023-06-01,Streaming,37.7,Secondary,False,,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/
+2023-08-01,Streaming,38.3,Secondary,False,,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/
+2023-09-01,Streaming,37.5,Secondary,False,,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/
+2024-06-01,Streaming,40.3,Secondary,False,First category above cable's 2021 high,https://ppc.land/nielsen-gauge/
+2024-09-01,Streaming,41.0,Secondary,False,Reported as 41%,https://variety.com/2024/tv/news/amazon-viewership-thursday-night-football-rings-of-power-1236178422
+2024-12-01,Streaming,43.4,Nielsen release,False,Record at the time,https://www.nielsen.com/news-center/2025/holidays-football-and-blockbusters-drive-record-highs-for-youtube-netflix-and-amazon-prime-video-in-december-according-to-the-gauge/
+2025-04-01,Streaming,44.3,Nielsen release,False,,https://www.nielsen.com/news-center/2025/the-gauge-streaming-peaks-again-drawing-from-successful-multiplatform-strategies/
+2025-05-01,Streaming,44.8,Secondary,False,Streaming > broadcast + cable for first time,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone
+2025-07-01,Streaming,47.3,Secondary,False,Record at the time,https://thedesk.net/2025/08/nielsen-the-gauge-july-2025/
+2025-08-01,Streaming,46.4,Nielsen release,False,,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/
+2025-09-01,Streaming,45.2,Secondary,False,,https://thedesk.net/2025/10/nielsen-the-gauge-september-2025-report/
+2025-10-01,Streaming,45.7,Nielsen release,False,,https://www.nielsen.com/news-center/2025/nielsens-the-gauge-nfl-viewership-underscores-how-sports-are-redefining-audience-behavior/
+2025-12-01,Streaming,47.5,Nielsen release,False,Record at the time,https://www.nielsen.com/news-center/2026/streaming-shatters-multiple-records-in-december-2025-with-47-5-of-tv-viewing-according-to-nielsens-the-gauge/
+2026-01-01,Streaming,47.0,Secondary,False,,https://informitv.com/2026/02/17/online-still-under-half-of-us-television-viewing/
+2026-02-01,Streaming,41.9,Secondary,True,METHODOLOGY DISPUTE - exclude from trend,https://adwave.com/resources/cable-vs-streaming-viewing-share-q1-2026
+2026-05-01,Streaming,48.6,Nielsen release,False,,https://www.nielsen.com/fr/news-center/2026/streaming-embarks-on-annual-summer-ascent-in-nielsens-may-2026-gauge-reports/
+2026-06-01,Streaming,48.5,Secondary,False,,https://www.mediapost.com/publications/article/417308/
+2026-07-01,Streaming,49.0,Secondary,False,Latest available (released 2026-09-10),https://adwave.com/resources/cable-vs-streaming-viewing-share-q3-2026

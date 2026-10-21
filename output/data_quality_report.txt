@@ -1,0 +1,22 @@
+=== STAGE 1: QUALITY CHECKS ===
+Gauge rows: 95 | duplicate month x metric: 0
+Months where streaming+cable+broadcast > 100%: 0
+Source tiers (%): {'Secondary': 77.0, 'Nielsen release': 23.0}
+Rows flagged for methodology breaks: 7 (excluded from trends)
+Netflix file total: 97.7B hours vs published 97B+ (+0.7%) -> PASS
+Netflix titles without a release date: 65% (kept as 'Undated' - mostly licensed titles; dropping them would lose half of viewing)
+
+=== STAGE 2: CLEAN ===
+Netflix rows after cleaning: 17372 (2 'Other' catch-all rows kept for 100% coverage)
+
+=== STAGE 3: OUTPUT ===
+Prime Video successive highs in sample: 2023-05 3.1% (No major live sports); 2023-06 3.2% (No major live sports); 2023-09 3.6% (Live sports month); 2024-12 4.0% (Live sports month); 2025-12 4.3% (Live sports month); 2026-05 4.5% (Live sports month)
+Baseline (June to June): 3.2% -> 4.2% (+1.0 pts) - growth beyond sports peaks
+Game-day lift (Nielsen, Oct 2025): 6.4% on TNF Thursdays vs 3.8% monthly average
+Netflix viewing by release recency:
+           release_bucket  titles        hours  share_of_titles_pct  share_of_hours_pct
+       Other (<50K views)       2 8.599000e+08                  0.0                 0.9
+     Released before 2025    4728 2.257850e+10                 27.2                23.1
+         Released in 2025     837 7.745300e+09                  4.8                 7.9
+      Released in H1 2026     481 1.794080e+10                  2.8                18.4
+Undated (mostly licensed)   11324 4.854000e+10                 65.2                49.7

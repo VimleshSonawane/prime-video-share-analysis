@@ -1,0 +1,96 @@
+month,metric,share_pct,source_tier,source,notes
+2021-05,Broadcast,25.4,Nielsen release,https://www.prnewswire.com/news-releases/nielsens-march-2024-report-of-the-gauge-reveals-seasonality-in-monthly-tv-usage-and-greater-shifts-in-viewing-behavior-over-time-302117761.html,Launch month baseline
+2022-07,Broadcast,21.6,Secondary,https://www.cablecompare.com/blog/cable-vs-streaming-market-share,
+2023-01,Broadcast,24.9,Secondary,https://www.advanced-television.com/2023/02/17/nielsen-prime-video-viewing-up-disney-down-in-jan/,PRE-RECLASSIFICATION
+2023-05,Broadcast,22.8,Secondary,https://documentarytelevision.com/?p=18123,
+2023-06,Broadcast,20.8,Secondary,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/,
+2023-08,Broadcast,20.4,Secondary,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/,
+2023-09,Broadcast,23.0,Secondary,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/,
+2024-09,Broadcast,22.6,Secondary,https://tvtechnology.com/news/nfl-boosts-broadcast-tv-prime-video-viewing-in-september,
+2025-05,Broadcast,20.1,Secondary,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone,
+2025-08,Broadcast,19.1,Nielsen release,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/,
+2025-09,Broadcast,22.3,Secondary,https://thedesk.net/2025/10/nielsen-the-gauge-september-2025-report/,
+2025-10,Broadcast,22.9,Nielsen release,https://www.nielsen.com/news-center/2025/nielsens-the-gauge-nfl-viewership-underscores-how-sports-are-redefining-audience-behavior/,
+2025-12,Broadcast,21.4,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q4-2025,
+2026-02,Broadcast,21.7,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q1-2026,METHODOLOGY DISPUTE - exclude from trend
+2026-05,Broadcast,19.2,Secondary,https://www.cablecompare.com/blog/cable-vs-streaming-market-share,
+2026-06,Broadcast,19.8,Secondary,https://www.mediapost.com/publications/article/417308/,
+2026-07,Broadcast,19.5,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q3-2026,
+2021-05,Cable,39.5,Nielsen release,https://www.prnewswire.com/news-releases/nielsens-march-2024-report-of-the-gauge-reveals-seasonality-in-monthly-tv-usage-and-greater-shifts-in-viewing-behavior-over-time-302117761.html,Launch month baseline
+2021-06,Cable,40.1,Secondary,https://ppc.land/nielsen-gauge/,Cable's all-time Gauge high
+2022-07,Cable,34.4,Secondary,https://www.cablecompare.com/blog/cable-vs-streaming-market-share,
+2023-01,Cable,30.4,Secondary,https://www.advanced-television.com/2023/02/17/nielsen-prime-video-viewing-up-disney-down-in-jan/,PRE-RECLASSIFICATION
+2023-05,Cable,31.1,Secondary,https://documentarytelevision.com/?p=18123,
+2023-08,Cable,30.2,Secondary,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/,
+2023-09,Cable,29.8,Secondary,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/,
+2024-09,Cable,26.1,Secondary,https://tvtechnology.com/news/nfl-boosts-broadcast-tv-prime-video-viewing-in-september,
+2025-05,Cable,24.1,Secondary,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone,
+2025-08,Cable,22.5,Nielsen release,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/,
+2025-10,Cable,22.2,Nielsen release,https://www.nielsen.com/news-center/2025/nielsens-the-gauge-nfl-viewership-underscores-how-sports-are-redefining-audience-behavior/,
+2025-11,Cable,20.5,Secondary,https://www.mediajobsreport.com/articles/broadcast-and-streaming-deliver-historic-tv-viewing-month-in-nielsen%E2%80%99s-the-gauge%E2%84%A2,Cable low at the time
+2025-12,Cable,20.2,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q4-2025,
+2026-02,Cable,20.0,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q1-2026,METHODOLOGY DISPUTE - exclude from trend
+2026-05,Cable,20.4,Secondary,https://www.cablecompare.com/blog/cable-vs-streaming-market-share,
+2026-07,Cable,18.7,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q3-2026,
+2021-05,Netflix,6.0,Secondary,https://ppc.land/nielsen-gauge/,Rounded (Axios via ppc.land)
+2023-05,Netflix,7.9,Secondary,https://documentarytelevision.com/?p=18123,
+2023-06,Netflix,6.9,Secondary,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/,
+2024-09,Netflix,7.9,Secondary,https://variety.com/2024/tv/news/amazon-viewership-thursday-night-football-rings-of-power-1236178422,
+2025-01,Netflix,8.6,Secondary,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html,Year-ago figure in Jan 2026 report
+2025-07,Netflix,8.8,Secondary,https://thedesk.net/2025/08/nielsen-the-gauge-july-2025/,
+2025-12,Netflix,9.0,Nielsen release,https://www.nielsen.com/news-center/2026/streaming-shatters-multiple-records-in-december-2025-with-47-5-of-tv-viewing-according-to-nielsens-the-gauge/,Platform best
+2026-01,Netflix,8.8,Secondary,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html,
+2026-04,Netflix,7.8,Secondary,https://adwave.com/resources/most-watched-streaming-service-q3-2026,
+2023-05,Prime Video,3.1,Secondary,https://documentarytelevision.com/?p=18123,Non-sports month
+2023-06,Prime Video,3.2,Secondary,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/,Non-sports month
+2023-09,Prime Video,3.6,Nielsen release,https://www.nielsen.com/news-center/2024/the-gauge-nfl-scores-in-september-as-audiences-continue-to-adapt-to-multi-platform-viewing/,Platform best at the time (stated retrospectively)
+2023-10,Prime Video,3.6,Nielsen release,https://www.nielsen.com/news-center/2024/the-gauge-nfl-scores-in-september-as-audiences-continue-to-adapt-to-multi-platform-viewing/,Tied platform best
+2024-09,Prime Video,3.6,Nielsen release,https://www.nielsen.com/news-center/2024/the-gauge-nfl-scores-in-september-as-audiences-continue-to-adapt-to-multi-platform-viewing/,Tied platform best; +12% MoM
+2024-12,Prime Video,4.0,Nielsen release,https://www.nielsen.com/news-center/2025/holidays-football-and-blockbusters-drive-record-highs-for-youtube-netflix-and-amazon-prime-video-in-december-according-to-the-gauge/,Platform best
+2025-01,Prime Video,3.7,Secondary,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html,Post-NFL-season month
+2025-05,Prime Video,3.5,Secondary,https://ppc.land/youtube-gains-0-4-points-to-13-8-of-us-tv-as-cable-drops-to-20-4/,Derived from 12-month comparison; verify
+2025-07,Prime Video,3.8,Secondary,https://www.accruedint.com/p/media-stock-insights-from-nielsens-365,Non-sports month
+2025-08,Prime Video,3.9,Nielsen release,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/,Originals (Summer I Turned Pretty; Ballard) + one NFL preseason game
+2025-10,Prime Video,3.8,Secondary,https://www.hollywoodreporter.com/business/business-news/nfl-sundays-broadcast-viewing-october-2025-nielsen-gauge-1236429185/,Monthly average; 6.4% on TNF Thursdays (Nielsen)
+2025-12,Prime Video,4.3,Nielsen release,https://www.nielsen.com/news-center/2026/streaming-shatters-multiple-records-in-december-2025-with-47-5-of-tv-viewing-according-to-nielsens-the-gauge/,Platform best; +12% MoM
+2026-01,Prime Video,4.1,Secondary,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html,One secondary source reports 4.3 - conflict; 4.1 matches two sources
+2026-04,Prime Video,4.2,Secondary,https://adwave.com/resources/most-watched-streaming-service-q3-2026,
+2026-05,Prime Video,4.5,Nielsen release,https://www.nielsen.com/de/news-center/2026/streaming-embarks-on-annual-summer-ascent-in-nielsens-may-2026-gauge-reports/,Platform best
+2026-06,Prime Video,4.2,Secondary,https://www.mediapost.com/publications/article/417308/,
+2021-05,Streaming,26.2,Nielsen release,https://www.prnewswire.com/news-releases/nielsens-march-2024-report-of-the-gauge-reveals-seasonality-in-monthly-tv-usage-and-greater-shifts-in-viewing-behavior-over-time-302117761.html,Launch month baseline
+2022-07,Streaming,34.8,Secondary,https://www.cablecompare.com/blog/cable-vs-streaming-market-share,Streaming passes cable for first time
+2023-01,Streaming,38.1,Secondary,https://www.advanced-television.com/2023/02/17/nielsen-prime-video-viewing-up-disney-down-in-jan/,PRE-RECLASSIFICATION: includes vMVPD linear viewing - not comparable
+2023-05,Streaming,36.4,Secondary,https://documentarytelevision.com/?p=18123,
+2023-06,Streaming,37.7,Secondary,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/,
+2023-08,Streaming,38.3,Secondary,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/,
+2023-09,Streaming,37.5,Secondary,https://www.hollywoodreporter.com/tv/tv-news/nfl-broadcast-networks-september-2023-platform-rankings-1235620048/,
+2024-06,Streaming,40.3,Secondary,https://ppc.land/nielsen-gauge/,First category above cable's 2021 high
+2024-09,Streaming,41.0,Secondary,https://variety.com/2024/tv/news/amazon-viewership-thursday-night-football-rings-of-power-1236178422,Reported as 41%
+2024-12,Streaming,43.4,Nielsen release,https://www.nielsen.com/news-center/2025/holidays-football-and-blockbusters-drive-record-highs-for-youtube-netflix-and-amazon-prime-video-in-december-according-to-the-gauge/,Record at the time
+2025-04,Streaming,44.3,Nielsen release,https://www.nielsen.com/news-center/2025/the-gauge-streaming-peaks-again-drawing-from-successful-multiplatform-strategies/,
+2025-05,Streaming,44.8,Secondary,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone,Streaming > broadcast + cable for first time
+2025-07,Streaming,47.3,Secondary,https://thedesk.net/2025/08/nielsen-the-gauge-july-2025/,Record at the time
+2025-08,Streaming,46.4,Nielsen release,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/,
+2025-09,Streaming,45.2,Secondary,https://thedesk.net/2025/10/nielsen-the-gauge-september-2025-report/,
+2025-10,Streaming,45.7,Nielsen release,https://www.nielsen.com/news-center/2025/nielsens-the-gauge-nfl-viewership-underscores-how-sports-are-redefining-audience-behavior/,
+2025-12,Streaming,47.5,Nielsen release,https://www.nielsen.com/news-center/2026/streaming-shatters-multiple-records-in-december-2025-with-47-5-of-tv-viewing-according-to-nielsens-the-gauge/,Record at the time
+2026-01,Streaming,47.0,Secondary,https://informitv.com/2026/02/17/online-still-under-half-of-us-television-viewing/,
+2026-02,Streaming,41.9,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q1-2026,METHODOLOGY DISPUTE - exclude from trend
+2026-05,Streaming,48.6,Nielsen release,https://www.nielsen.com/fr/news-center/2026/streaming-embarks-on-annual-summer-ascent-in-nielsens-may-2026-gauge-reports/,
+2026-06,Streaming,48.5,Secondary,https://www.mediapost.com/publications/article/417308/,
+2026-07,Streaming,49.0,Secondary,https://adwave.com/resources/cable-vs-streaming-viewing-share-q3-2026,Latest available (released 2026-09-10)
+2022-07,Streaming (restated),31.5,Secondary,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/,Restated after Feb 2023 vMVPD reclassification (originally 34.8)
+2021-05,YouTube,6.0,Secondary,https://ppc.land/nielsen-gauge/,Rounded (Axios via ppc.land)
+2023-05,YouTube,8.5,Secondary,https://documentarytelevision.com/?p=18123,
+2023-06,YouTube,8.1,Secondary,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/,
+2024-07,YouTube,10.4,Secondary,https://ppc.land/nielsen-gauge/,First platform above 10%
+2024-09,YouTube,10.6,Secondary,https://variety.com/2024/tv/news/amazon-viewership-thursday-night-football-rings-of-power-1236178422,
+2024-12,YouTube,11.1,Nielsen release,https://www.nielsen.com/news-center/2025/holidays-football-and-blockbusters-drive-record-highs-for-youtube-netflix-and-amazon-prime-video-in-december-according-to-the-gauge/,
+2025-01,YouTube,10.8,Secondary,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html,Year-ago figure in Jan 2026 report
+2025-05,YouTube,12.5,Secondary,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone,
+2025-07,YouTube,13.4,Secondary,https://www.accruedint.com/p/media-stock-insights-from-nielsens-365,
+2025-12,YouTube,12.7,Secondary,https://adwave.com/resources/youtube-tv-viewing-share-q4-2025/,
+2026-01,YouTube,12.5,Secondary,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html,One secondary source reports 12.7 - conflict
+2026-04,YouTube,13.4,Secondary,https://adwave.com/resources/most-watched-streaming-service-q3-2026,
+2026-05,YouTube,13.8,Secondary,https://ppc.land/youtube-gains-0-4-points-to-13-8-of-us-tv-as-cable-drops-to-20-4/,
+2026-06,YouTube,13.5,Secondary,https://www.mediapost.com/publications/article/417308/,

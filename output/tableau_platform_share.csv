@@ -1,0 +1,40 @@
+date,metric,share_pct,sports_context,event,source_tier,notes,source
+2021-05-01,Netflix,6.0,No major live sports,,Secondary,Rounded (Axios via ppc.land),https://ppc.land/nielsen-gauge/
+2023-05-01,Netflix,7.9,No major live sports,,Secondary,,https://documentarytelevision.com/?p=18123
+2023-06-01,Netflix,6.9,No major live sports,,Secondary,,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/
+2024-09-01,Netflix,7.9,Live sports month,TNF plus Rings of Power S2 (4.3B viewing minutes),Secondary,,https://variety.com/2024/tv/news/amazon-viewership-thursday-night-football-rings-of-power-1236178422
+2025-01-01,Netflix,8.6,No major live sports,,Secondary,Year-ago figure in Jan 2026 report,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html
+2025-07-01,Netflix,8.8,No major live sports,,Secondary,,https://thedesk.net/2025/08/nielsen-the-gauge-july-2025/
+2025-12-01,Netflix,9.0,Live sports month,Four TNF games incl. Christmas Day plus new Fallout episodes,Nielsen release,Platform best,https://www.nielsen.com/news-center/2026/streaming-shatters-multiple-records-in-december-2025-with-47-5-of-tv-viewing-according-to-nielsens-the-gauge/
+2026-01-01,Netflix,8.8,No major live sports,,Secondary,,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html
+2026-04-01,Netflix,7.8,No major live sports,,Secondary,,https://adwave.com/resources/most-watched-streaming-service-q3-2026
+2023-05-01,Prime Video,3.1,No major live sports,,Secondary,Non-sports month,https://documentarytelevision.com/?p=18123
+2023-06-01,Prime Video,3.2,No major live sports,,Secondary,Non-sports month,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/
+2023-09-01,Prime Video,3.6,Live sports month,TNF season opens; Prime Video sets 3.6% platform best,Nielsen release,Platform best at the time (stated retrospectively),https://www.nielsen.com/news-center/2024/the-gauge-nfl-scores-in-september-as-audiences-continue-to-adapt-to-multi-platform-viewing/
+2023-10-01,Prime Video,3.6,Live sports month,,Nielsen release,Tied platform best,https://www.nielsen.com/news-center/2024/the-gauge-nfl-scores-in-september-as-audiences-continue-to-adapt-to-multi-platform-viewing/
+2024-09-01,Prime Video,3.6,Live sports month,TNF plus Rings of Power S2 (4.3B viewing minutes),Nielsen release,Tied platform best; +12% MoM,https://www.nielsen.com/news-center/2024/the-gauge-nfl-scores-in-september-as-audiences-continue-to-adapt-to-multi-platform-viewing/
+2024-12-01,Prime Video,4.0,Live sports month,Five TNF games incl. Black Friday plus Red One (5.6B minutes),Nielsen release,Platform best,https://www.nielsen.com/news-center/2025/holidays-football-and-blockbusters-drive-record-highs-for-youtube-netflix-and-amazon-prime-video-in-december-according-to-the-gauge/
+2025-01-01,Prime Video,3.7,No major live sports,,Secondary,Post-NFL-season month,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html
+2025-05-01,Prime Video,3.5,No major live sports,,Secondary,Derived from 12-month comparison; verify,https://ppc.land/youtube-gains-0-4-points-to-13-8-of-us-tv-as-cable-drops-to-20-4/
+2025-07-01,Prime Video,3.8,No major live sports,,Secondary,Non-sports month,https://www.accruedint.com/p/media-stock-insights-from-nielsens-365
+2025-08-01,Prime Video,3.9,No major live sports,The Summer I Turned Pretty and Ballard plus one NFL preseason game,Nielsen release,Originals (Summer I Turned Pretty; Ballard) + one NFL preseason game,https://www.nielsen.com/news-center/2025/football-and-back-to-school-dynamics-spark-first-gains-since-april-for-traditional-tv/
+2025-10-01,Prime Video,3.8,Live sports month,TNF: 6.4% share on game Thursdays vs 3.8% monthly average,Secondary,Monthly average; 6.4% on TNF Thursdays (Nielsen),https://www.hollywoodreporter.com/business/business-news/nfl-sundays-broadcast-viewing-october-2025-nielsen-gauge-1236429185/
+2025-12-01,Prime Video,4.3,Live sports month,Four TNF games incl. Christmas Day plus new Fallout episodes,Nielsen release,Platform best; +12% MoM,https://www.nielsen.com/news-center/2026/streaming-shatters-multiple-records-in-december-2025-with-47-5-of-tv-viewing-according-to-nielsens-the-gauge/
+2026-01-01,Prime Video,4.1,No major live sports,,Secondary,One secondary source reports 4.3 - conflict; 4.1 matches two sources,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html
+2026-04-01,Prime Video,4.2,No major live sports,,Secondary,,https://adwave.com/resources/most-watched-streaming-service-q3-2026
+2026-05-01,Prime Video,4.5,Live sports month,12 NBA Playoff games + 6 WNBA + 2 NASCAR plus The Boys finale,Nielsen release,Platform best,https://www.nielsen.com/de/news-center/2026/streaming-embarks-on-annual-summer-ascent-in-nielsens-may-2026-gauge-reports/
+2026-06-01,Prime Video,4.2,No major live sports,,Secondary,,https://www.mediapost.com/publications/article/417308/
+2021-05-01,YouTube,6.0,No major live sports,,Secondary,Rounded (Axios via ppc.land),https://ppc.land/nielsen-gauge/
+2023-05-01,YouTube,8.5,No major live sports,,Secondary,,https://documentarytelevision.com/?p=18123
+2023-06-01,YouTube,8.1,No major live sports,,Secondary,,https://informitv.com/2023/07/18/online-viewing-record-high-in-united-states/
+2024-07-01,YouTube,10.4,No major live sports,,Secondary,First platform above 10%,https://ppc.land/nielsen-gauge/
+2024-09-01,YouTube,10.6,Live sports month,TNF plus Rings of Power S2 (4.3B viewing minutes),Secondary,,https://variety.com/2024/tv/news/amazon-viewership-thursday-night-football-rings-of-power-1236178422
+2024-12-01,YouTube,11.1,Live sports month,Five TNF games incl. Black Friday plus Red One (5.6B minutes),Nielsen release,,https://www.nielsen.com/news-center/2025/holidays-football-and-blockbusters-drive-record-highs-for-youtube-netflix-and-amazon-prime-video-in-december-according-to-the-gauge/
+2025-01-01,YouTube,10.8,No major live sports,,Secondary,Year-ago figure in Jan 2026 report,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html
+2025-05-01,YouTube,12.5,No major live sports,,Secondary,,https://www.tvtechnology.com/news/nielsen-streaming-reaches-historic-tv-viewing-milestone
+2025-07-01,YouTube,13.4,No major live sports,,Secondary,,https://www.accruedint.com/p/media-stock-insights-from-nielsens-365
+2025-12-01,YouTube,12.7,Live sports month,Four TNF games incl. Christmas Day plus new Fallout episodes,Secondary,,https://adwave.com/resources/youtube-tv-viewing-share-q4-2025/
+2026-01-01,YouTube,12.5,No major live sports,,Secondary,One secondary source reports 12.7 - conflict,https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html
+2026-04-01,YouTube,13.4,No major live sports,,Secondary,,https://adwave.com/resources/most-watched-streaming-service-q3-2026
+2026-05-01,YouTube,13.8,Live sports month,12 NBA Playoff games + 6 WNBA + 2 NASCAR plus The Boys finale,Secondary,,https://ppc.land/youtube-gains-0-4-points-to-13-8-of-us-tv-as-cable-drops-to-20-4/
+2026-06-01,YouTube,13.5,No major live sports,,Secondary,,https://www.mediapost.com/publications/article/417308/
